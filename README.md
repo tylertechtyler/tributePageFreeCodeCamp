@@ -1,0 +1,1 @@
+This is my attempt at creating the "Tribute Page" responsive web design project assigned in Free Code Camp's Responsive Web Development course. I am also practicing GIT, Github, and ubuntu, by developing on VScode in Ubuntu and uploading to a public git repository.
