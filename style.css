@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background-color: rgb(146, 93, 31);
+}
+img {
+    max-width: 70%;
+    margin: auto;
+    height: auto;
+    display: block;
+}
+#img-div {
+    padding: 15px;
+    background: rgb(128, 81, 27);
+}
+#tribute-link {
+    
+    background: rgb(128, 81, 27);
+}
+#tribute-info {
+    text-align: left;
+    padding-left: 22%;
+}
