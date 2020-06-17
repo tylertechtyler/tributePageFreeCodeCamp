@@ -2,6 +2,14 @@ body {
     text-align: center;
     background-color: rgb(146, 93, 31);
 }
+h1 {
+    font-size: 25pt;
+}
+.img-frame {
+    background: transparent;
+    padding: 8px;
+    border: 1px solid #502905;
+}
 img {
     max-width: 70%;
     margin: auto;
@@ -14,7 +22,7 @@ img {
 }
 #tribute-link {
     
-    background: rgb(128, 81, 27);
+    font-size: 18pt;
 }
 #tribute-info {
     text-align: left;
